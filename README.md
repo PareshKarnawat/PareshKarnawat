@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PareshKarnawat
 - 👀 I’m interested in iOS Programming and Development.
-- 🌱 I’m currently learning SwiftUI, Java, Microservices.
-- 💞️ I’m looking to collaborate on AugmentedReality topics.
 - 📫 How to reach me - paresh.karnawat@gmail.com
 
 <!---
